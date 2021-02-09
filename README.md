@@ -12,3 +12,12 @@ Top Anime in 15 years: 2006-2021 Anime ranking.
 ## Anime Tag explorations
 
  - In progress
+ 
+## Anime Tag Classification
+ - Used crawler to download each and every image in Kaggle dataset
+ - Used VGG16 to classify image by label
+   - Multi-label classification
+   - BCE loss
+ 
+ - Fine-tuned hyperparameters
+ - Testing Examples given
